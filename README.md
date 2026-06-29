@@ -7,4 +7,4 @@ nex, 17, always iwc
 <p align="center">
 basic dni (homophobes, transphobes, proship)
 
-<br><br><br>
+<br>
